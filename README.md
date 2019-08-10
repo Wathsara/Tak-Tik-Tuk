@@ -2,4 +2,3 @@
 Tak Tik Tuk Game
 implemented Using Java.
 
-@all-contributors add
